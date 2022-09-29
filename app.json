@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BarCodeApp",
-    "slug": "BarCodeApp",
+    "name": "QRCode-ConferencRoomCheck",
+    "slug": "QRCode-ConferencRoomCheck",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -31,7 +31,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "a14e2c6b-a135-4500-9fd1-efe9f4576ab9"
+        "projectId": "65eb23ff-06aa-404f-8033-ae000d02774d"
       }
     }
   }
